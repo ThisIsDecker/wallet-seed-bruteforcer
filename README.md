@@ -31,8 +31,8 @@ Outputs discovered wallets to found_wallets.txt in real-time.
 
 3) Configure Threads.
 
-4) Proxy Setup (Optional):
-Enable the "Use Proxy" checkbox.
+4) Proxy Setup (Optional):<br/>
+Enable the "Use Proxy" checkbox.<br/>
 Enter your proxy URL (e.g. http://user:pass@ip:port).
 
 5) Click Start and wait. The process may take hours/days.
@@ -45,23 +45,23 @@ Do not interrupt the process—results are saved live.
 
 :point_down: Important Notes
 
-1) Patience Required:
+1) Patience Required:<br/>
 Brute-forcing 12-word seeds is computationally intensive. Expect extended runtimes.
 
-2) Hardware Recommendations:
+2) Hardware Recommendations:<br/>
 Use a machine with high CPU cores for optimal multithreading.
 
-3) Proxy Advisory:
+3) Proxy Advisory:<br/>
 Proxies prevent rate-limiting but may slow down requests. Use reliable providers.
 
-4) Security Warnings:
-Use responsibly: Only test wallets you own.
-Antivirus: Add exceptions if false positives occur.
+4) Security Warnings:<br/>
+Use responsibly: Only test wallets you own.<br/>
+Antivirus: Add exceptions if false positives occur.<br/>
 
 📌 Final Advice:
 
-Let the tool run uninterrupted.
-Verify found_wallets.txt periodically.
-Never share recovered seeds privately!
+Let the tool run uninterrupted.<br/>
+Verify found_wallets.txt periodically.<br/>
+Never share recovered seeds privately!<br/>
 
 Good luck! 🚀
