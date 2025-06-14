@@ -4,6 +4,7 @@
 
 This Python-based tool efficiently brute-forces 12-word seed phrases (mnemonics) for MetaMask and Phantom wallets. It leverages multithreading and proxy support to accelerate the discovery process. Upon finding a valid seed, the program saves wallet details (address, private key, and seed phrase) to found_wallets.txt.
 
+Watch the tool in action on YouTube:<br/>
 [![0](https://github.com/user-attachments/assets/bab9c4ba-6938-4013-a990-833ad2017b1e)](https://youtu.be/YzN0Gc2gySQ)
 
 
