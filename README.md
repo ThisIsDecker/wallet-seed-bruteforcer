@@ -6,8 +6,8 @@ This Python-based tool efficiently brute-forces 12-word seed phrases (mnemonics)
 
 ⚠️ Note:
 
-Not open-source: Proprietary optimization methods are used.
-Antivirus alerts: Rare false positives may occur due to code obfuscation and packaging.
+Not open-source: Proprietary optimization methods are used.<br/>
+Antivirus alerts: Rare false positives may occur due to code obfuscation and packaging.<br/>
 
 :heavy_check_mark: Key Features
 
